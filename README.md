@@ -60,17 +60,17 @@ Average Experience
 
 ## Dashboard Insights
 - Overtime is the strongest attrition driver:
-Employees working overtime show significantly higher attrition → clear sign of burnout & work-life imbalance
+Employees working overtime show significantly higher attrition.
 - Department Impact :
-Sales & Administration have the highest attrition
+Sales & Administration have the highest attrition,
 These roles likely involve higher workload and overtime pressure
-Finance & HR show low attrition → more stable work conditions
+Finance & HR show low attrition .
 - Experience Factor
-Employees with 0–5 years experience are leaving the most
+Employees with 0–5 years experience are leaving the most.
 - Age Group Trend
 Highest attrition in 26–35 age group
 This is the core working population, making attrition more critical
-Likely driven by career growth expectations + workload stress
+Likely driven by career growth expectations and workload stress.
 
 ## Business Insights :
 Attrition is highest among young, early-career employees (0–5 years, age 26–35), especially in Sales and Administration departments, where overtime workload is high.
