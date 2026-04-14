@@ -1,4 +1,4 @@
-# HR-Analytics-Project
+# HR Analytics Dashboard: Attrition & Overtime Insights
 
 ## Project Overview
 
