@@ -5,10 +5,9 @@
 End-to-End HR Analytics Dashboard built in Power BI to uncover the drivers of employee attrition. This project features full Power Query ETL (data cleaning, standardization, and custom column engineering)
 This project is an End-to-End HR Analytics Dashboard built in Power BI to help businesses understand why employees leave.
 
-## Dashboard Overview
+## 📊 Dashboard Overview
 
-## 📊 Dashboard Preview  
-![HR_Analytics_Dashboard](Dashboard_Screenshot.png)
+![HR Dashboard](Dashboard_Screenshot.png)
 
 ## Objectives
 - Analyze employee attrition trends
